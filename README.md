@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/design-dektop.jpg)
+![](./design/desktop-design.jpg)
 
 This is not actually a screenshot of the component I build, but a picture of the design that I imitated (to see the component that I made click on the link below)
 
